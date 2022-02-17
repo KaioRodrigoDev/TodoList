@@ -18,6 +18,9 @@ export default function Navbar() {
         <Link href="/about">
           <a>Sobre</a>
         </Link>
+        <Link href="/new">
+          <a>Novo</a>
+        </Link>
       </li>
     </ul>
   )
